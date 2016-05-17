@@ -6,7 +6,7 @@ HOMEPAGE = "http://www.ng-return.com/wbb2/index.php?page=Thread&threadID=46471"
 
 S = "${WORKDIR}"
 
-PR = "r1"
+PR = "r2"
 
 SRC_URI = "file://telewizjada.xml \
 	   file://telewizjada.lua \
